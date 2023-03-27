@@ -1,0 +1,38 @@
+body{
+    background:#eeeeee;
+        color:#1468e7;
+        font-family:Arial, Helvetica, sans-serif;
+        text-align:center;
+   
+}
+
+div{
+    font-family:monospace;
+    font-size: 20px;
+    color: #ff0000;
+}
+
+h1{
+    font-family:cursive;
+    font-size: 50px;
+}
+
+fieldset{
+    background-color: rgb(213, 255, 196);
+
+}
+
+section{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    
+}
+
+button{
+    text-align: center;
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+
+
+}
